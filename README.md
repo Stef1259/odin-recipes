@@ -43,4 +43,5 @@ The “icon” images used by the site (favicon + back button) were also sourced
 
 - `assets/cooking.png` (favicon)
 - `assets/is-less-than.png` (back/home icon)
-  <a href="https://www.flaticon.com/free-icons/less" title="less icons">Less icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/less" title="less icons">Less icons created by Freepik - Flaticon</a>
