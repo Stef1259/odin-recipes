@@ -4,6 +4,16 @@
     box-sizing:border-box;
 }
 
+body{
+    background: linear-gradient(120deg, #FFEBEB 0%, #FFF3E3 100%);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #6b4f5b; /* Muted plum */
+}
+
 .heading {
     text-align: center;
     margin: 10px;
@@ -38,3 +48,5 @@
     padding: 10px;
 
 }
+
+
