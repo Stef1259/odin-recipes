@@ -73,9 +73,9 @@ h1,h2 {
 }
 
 .RecipeTitle {
-    display: inline-block;
     font-size: 64px;
-    margin-inline-start: 400px;
+    margin-inline-start: 300px;
+      display: inline-block;
     margin-bottom: 10px;
 }
 
