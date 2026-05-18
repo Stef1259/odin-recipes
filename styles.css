@@ -40,7 +40,7 @@ hr {
 }
 
 .navigationLinks {
-    padding-left: 150px;
+    padding-left: 120px;
     color: black;
     text-decoration: none;
     font-size:30px;
@@ -89,20 +89,24 @@ h1,h2 {
     width:300px;
     height:200px;
     border-radius: 10px;
+    margin-top: 20px;
 
 }
 
 figcaption {
     margin-inline-start: 400px;
     font-size: smaller;
+    margin-bottom: 20px;
 }
 
 .sectionTitle {
     text-align: center;
+    margin-block: 10px;
 }
 
 .subsectionTitle {
     margin-inline-start: 50px;
+    margin-top: 20px;
 }
 
 .titleParagraph {
