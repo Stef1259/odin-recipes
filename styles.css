@@ -69,8 +69,12 @@ h1,h2 {
 }
 
 .ingedientsList li{
-    margin-inline-start: 240px;
+    margin-inline-start: 80px;
     padding: 2px;
+}
+
+.ingedientsList {
+        margin-block: 8px;
 }
 
 .RecipeTitle {
@@ -98,7 +102,7 @@ figcaption {
 }
 
 .subsectionTitle {
-    margin-inline-start: 200px;
+    margin-inline-start: 50px;
 }
 
 .titleParagraph {
