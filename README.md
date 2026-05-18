@@ -2,7 +2,8 @@
 
 A small, static recipe site.
 
-- Built entirely with **HTML** (no JavaScript, no CSS frameworks).
+- Built entirely with **HTML & css** (no JavaScript).
+- Link to the deployed site : https://stef1259.github.io/odin-recipes/
 - Entry point: `index.html`.
 
 ## Download / Get the code
