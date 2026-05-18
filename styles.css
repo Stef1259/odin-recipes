@@ -91,3 +91,7 @@ figcaption {
     margin-inline-start: 400px;
     font-size: smaller;
 }
+
+.sectionTitle {
+    text-align: center;
+}
