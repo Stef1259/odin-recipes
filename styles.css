@@ -64,4 +64,17 @@ h1,h2 {
     border-radius: 10px;
 }
 
+.recipeBody {
+   margin-inline: 36px;
+}
 
+.ingedientsList li{
+    margin-inline-start: 30px;
+}
+
+.RecipeTitle {
+    display: inline-block;
+    font-size: 64px;
+    margin-inline-start: 400px;
+    margin-bottom: 30px;
+}
